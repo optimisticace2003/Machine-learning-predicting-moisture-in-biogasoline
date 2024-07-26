@@ -78,17 +78,12 @@ Documentation: Comprehensive guide on replicating the studies.
 | `cd biogasoline-moisture-measurement` | Navigate into the project directory |
 
 
-
-
-
-
-
-git clone https://github.com/yourusername/biogasoline-moisture-measurement.git
-
-
 **Install Dependencies:**
 Ensure you have Python and the required libraries installed.
 
-pip install -r requirements.txt
-Run the Algorithms:
+| Command | Description |
+|---------|-------------|
+| `pip install -r requirements.txt` | to install requirements in system |
+
+**Run the Algorithms:**
 Follow the instructions in the documentation folder to run each algorithm and analyze the results.
