@@ -1,6 +1,6 @@
 
 
-**BIOGASOLINE MOISTURE MEASUREMENT PROJECT**
+## BIOGASOLINE MOISTURE MEASUREMENT PROJECT
 This repository contains four research projects focused on measuring moisture presence in biogasoline using various algorithms for hyperparameter optimization. The main objective is to compare the efficiency and error rates of different algorithms to determine the best approach for detecting moisture in biogasoline.
 
 **PROJECTS OVERVIEW**
