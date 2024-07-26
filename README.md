@@ -1,4 +1,4 @@
-# Machine-learning-predicting-moisture-in-biogasoline
+s# Machine-learning-predicting-moisture-in-biogasoline
 
 **Biogasoline Moisture Measurement Projects**
 This repository contains four research projects focused on measuring moisture presence in biogasoline using various algorithms for hyperparameter optimization. The main objective is to compare the efficiency and error rates of different algorithms to determine the best approach for detecting moisture in biogasoline.
@@ -69,10 +69,21 @@ Source Code: Implementation of NGSCV, PSO, BA, GA, and CV algorithms.
 Results: Detailed results and error rate analysis.
 Documentation: Comprehensive guide on replicating the studies.
 
-**Getting Started**
-Clone the Repository:
+
+## Getting Started 
+
+| Clone the Repository:|
+|-----:-----------|
+| git clone https://github.com/yourusername/biogasoline-moisture-measurement.git|
+| cd biogasoline-moisture-measurement                                           |
+
+
+
+
+
+
 git clone https://github.com/yourusername/biogasoline-moisture-measurement.git
-cd biogasoline-moisture-measurement
+
 
 **Install Dependencies:**
 Ensure you have Python and the required libraries installed.
