@@ -75,7 +75,7 @@ Documentation: Comprehensive guide on replicating the studies.
 | Clone the Repository:|
 |-----:-----------|
 | git clone https://github.com/yourusername/biogasoline-moisture-measurement.git|
-| cd biogasoline-moisture-measurement                                           |
+| cd biogasoline-moisture-measurement                                         |
 
 
 
