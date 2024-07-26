@@ -70,12 +70,13 @@ Results: Detailed results and error rate analysis.
 Documentation: Comprehensive guide on replicating the studies.
 
 
-## Getting Started 
+## Getting Started
 
-| Clone the Repository:|
-|-----:-----------|
-| git clone https://github.com/yourusername/biogasoline-moisture-measurement.git|
-| cd biogasoline-moisture-measurement                                         |
+| Command | Description |
+|---------|-------------|
+| `git clone https://github.com/yourusername/biogasoline-moisture-measurement.git` | Clone the repository |
+| `cd biogasoline-moisture-measurement` | Navigate into the project directory |
+
 
 
 
